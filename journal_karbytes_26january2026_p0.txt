@@ -1,0 +1,120 @@
+/**
+ * file: journal_karbytes_26january2026_p0.txt
+ * type: plain-text
+ * date: 24_JANUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+For each Uniform Resource Locator (URL) listed in this file:
+    Change the following string within that URL from:
+        [anonymous_github_username]/[public_files_repository]
+    To:
+        karlinarayberinger/KARLINA_OBJECT_extension_pack_56
+    If the (URL) ends with any one of the following strings:
+        temp.txt
+    Then:
+        that file does not exist.
+    Otherwise:
+        that file exists (presumably as of 11:59PM Pacific Standard Time on 18_JANUARY_2026).
+
+* * *
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/temp.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/index.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/sub-index_page_A4.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/sub-index_page_31.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/sub-index_page_32.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/sub-index_page_33.html
+
+* * *
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]main/KARBYTES_CODE_CONTINUES.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/KARBYTES_FOR_LIFE_BLOG.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/KARLINA_OBJECT.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/RAW_GITHUB_FILES_MACRO_DIRECTORY.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/SOFTWARE_ENGINEERING_PORTFOLIO.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/basement_karbytes_24january2026_p0.mp4
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_karbytes_26january2026_p0.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[optical_disc_laser_writing_photons]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[photon_density_flux_at_disc]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[photon_density_formulas]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[photon_density_near_laser_focus]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[photon_flux_density]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[photon_rate_optical_disc_laser]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[photons_per_volume]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/chatgpt_output_[typical_visible_laser]_24january2026.png
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/journal_karbytes_26january2026_p0.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/karbytes2026_0_checksums.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/karbytes2026_0_contents.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/karbytes_for_life_blog_updates.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/karbytes_social_media_posts.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/karlina_object_updates.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/mdisc_karbytes2026_0.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/megadeth_ride_the_lightning_2026.mp4
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/preparing_to_make_mdisc_set_on_01january2026.txt
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/print_folder_checksums.py
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/print_folder_contents.py
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_KARBYTES_BLOG_APPS_github_hosted_website_index.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_56.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/style.css
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_karbytes_first_onion_web_page.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_karbytes_social_media_posts_koep56.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_0.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html
+
+https://raw.githubusercontent.com/informationcrystals/[anonymous_github_username]/[public_files_repository]/unlisted_web_page_mdisc_karbytes2026_0.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_onion_web_page_availability_logger.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/unlisted_web_page_preparing_to_make_mdisc_set_on_01january2026.html
+
+https://raw.githubusercontent.com/[anonymous_github_username]/[public_files_repository]/main/update_urls_in_file.py
+
