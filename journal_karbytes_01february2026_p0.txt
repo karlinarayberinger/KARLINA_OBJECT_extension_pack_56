@@ -8,6 +8,8 @@
 
 On 01_FEBRUARY_2026 karbytes updated its cloud-hosted multi-track MP3 player web application (both the light-web GitHub-hosted version and the dark-web personal-server version) with some additional black-metal sound tracks so that karbytes (and other users) of that application can listen to multiple sound tracks simultaneously for indefinitely many iterations each.
 
+(Before today's update of that web application, the last time that web application was updated was on 14_NOVEMBER_2025).
+
 Note that each of the sound tracks (or audio files) which is featured in any web page of karbytes (including interactive JavaScript-powered web applications) is available as an MP4 file somewhere in the RAW_GITHUB_FILES_MACRO_DIRECTORY section of the Karbytes For Life Blog dot WordPress dot Com website. 
 
 light-web-version: https://karbytessupporter.github.io/SOUND_TRACK_LOOP_COUNTER_THREE_github_hosted_website/
