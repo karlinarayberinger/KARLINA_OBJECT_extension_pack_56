@@ -30,17 +30,17 @@ file_10: KARLINA_OBJECT_extension_pack_56-main_02february2026.zip // 142.19 mega
 
 file_11: KARLINA_OBJECT_extension_pack_49-main.zip // 297.60 megabytes
 
-file_12: KARBYTES_FOR_LIFE_BLOG-main_01february2026.zip // 0.72 megabytes
+file_12: reference_human_genome_fasta_hg38-main.zip // 937.32 megabytes
 
-file_13: reference_human_genome_fasta_hg38-main.zip // 937.32 megabytes
+file_13: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
-file_14: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
+file_14: karbytes_wayback_machine_saves_precision_batches_extension_1-main_01february2026.zip // 0.05 megabytes
 
-file_15: karbytes_wayback_machine_saves_precision_batches_extension_1-main_01february2026.zip // 0.05 megabytes
+file_15: karbytes_human_genome_fasta_part_3-main.zip // 1989.26 megabytes
 
-file_16: karbytes_human_genome_fasta_part_3-main.zip // 1989.26 megabytes
+file_16: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_05january2026.zip // 274.62 megabytes
 
-file_17: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_05january2026.zip // 274.62 megabytes
+file_17: KARBYTES_FOR_LIFE_BLOG-main_02february2026.zip // 0.72 megabytes
 
 file_18: KARLINA_OBJECT_extension_pack_51-main.zip // 239.98 megabytes
 
